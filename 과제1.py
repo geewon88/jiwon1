@@ -18,7 +18,7 @@ print(len(cook))
 nums2=[1,2,3,4,5]
 a=len(nums)
 b=sum(nums2)
-print(b/a)s
+print(b/a)
 print(3==5) #False
 print(3<5) #True
 x=4
